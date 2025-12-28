@@ -2,7 +2,7 @@
 
 > AI-powered cryptocurrency price prediction with automated trading signals using Machine Learning
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](I'll put the URL here)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://crypto-predictor-hsq8rqynbzvf6o7amwq7nw.streamlit.app/)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.29+-red.svg)](https://streamlit.io)
 
@@ -21,7 +21,7 @@ A real-time cryptocurrency analysis platform that predicts future prices and gen
 
 ##  Live Demo
 
-**[View Live App](I'll put the URL after deployment)** 
+**[View Live App](https://crypto-predictor-hsq8rqynbzvf6o7amwq7nw.streamlit.app/)** 
 
 ## Tech Stack
 
@@ -37,6 +37,12 @@ A real-time cryptocurrency analysis platform that predicts future prices and gen
 - **Training Data:** 30-365 days of historical prices
 - **Features:** 15+ technical indicators (MA, RSI, lag features, volatility)
 - **Prediction Horizon:** 6-72 hours
+
+##  Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Predictions](screenshots/Detailed-predictions.png)
+![Signals](screenshots/signals.png)
 
 
 
